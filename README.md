@@ -1,2 +1,2 @@
-# treinamentogit
-Curso de git Udemy
+# Training Git
+Curse git Udemy
